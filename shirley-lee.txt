@@ -10,7 +10,7 @@
     5. Name two tags that have required attributes
         <a href> </a>         <meta http-###>  
     6. What do we put in the head of our HTML document? 
-        <head>     (or do you mean <html>)
+        <html><header>   which include DocType or title
     7. What is an id? 
         attribute which identifies only one set of information (later to be modified by css)
     8. What elements can I add an id to? 
